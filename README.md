@@ -1,6 +1,8 @@
 # macos-devops
 
-Script criado com o intuito de realizar a configuração de MacBooks com minhas ferramentas para um ambiente de desenvolvimento.
+Este projeto foi criado com o intuito de facilitar a configuração de um ambiente de desenvolvimento que possa ser utilizado tanto para fins educativos quanto profissionais. Ele foi preparado para MacBook sob o ambiente macOS Big Sur. 
+
+A motivação para publicação do mesmo veio das minhas anotações pessoais e do estímulo do amigo @caioeverest através do projeto [https://github.com/caioeverest/supernova]
 
 ## Como executar
 
